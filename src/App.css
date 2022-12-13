@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  background-image: url(/src/lala.jpg);
+  min-width:100%;
+  min-height: 100%;
+background-size:contain;
+background-position: center;
 }
 
 .App-logo {
@@ -14,7 +19,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #0f1216;
   min-height: 100vh;
   display: flex;
   flex-direction: column;

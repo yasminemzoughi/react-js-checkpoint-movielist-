@@ -1,13 +1,13 @@
 import React from 'react'
 import { Card } from 'react-bootstrap'
-import pic from "./pic.jpg"
-import blackadam from './blackadam.jpg'
-import dora from './dora.jpg'
-import girl from './girl.jpg'
-import luck from './luck.jpg'
-import smile from './smile.jpg'
-import thor from './thor.jpg'
-import homealone from './homealone.jpg'
+import pic from "./photos/pic.jpg"
+import blackadam from './photos/blackadam.jpg'
+import dora from './photos/dora.jpg'
+import girl from './photos/girl.jpg'
+import luck from './photos/luck.jpg'
+import smile from './photos/smile.jpg'
+import thor from './photos/thor.jpg'
+import homealone from './photos/homealone.jpg'
 import './Movielist.css'
 const MovieList = () => {
   return (
